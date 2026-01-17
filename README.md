@@ -1,5 +1,10 @@
-# 💫 About Me:
-# I'm currently working on developing IoT SDK for  realtime communications on edge devices.<br>I'm looking to collaborate on projects on Embedded systems and IoT solutions.<br>I am looking for help with improving project design, debugging hardware/software issues, and understanding advanced embedded concepts<br>I am currently learning embedded systems, realtime communication protocols (WebRTC and WHIP/WHEP) , and programming for hardware applications.<br>Ask me about electronics fundamentals, communication systems, embedded or IoT projects, and engineering problem-solving.<br>I enjoy breaking down complex engineering topics into simple, logical explanations.
+# 😎 About Me:
+🔧 Currently working on developing IoT SDK for realtime communications on edge devices
+🤝 Looking to collaborate on projects involving Embedded systems and IoT solutions
+🆘 Seeking help with improving project design, debugging hardware/software issues, and understanding advanced embedded concepts
+📚 Currently learning embedded systems, realtime communication protocols (WebRTC and WHIP/WHEP), and programming for hardware applications
+💬 Ask me about electronics fundamentals, communication systems, embedded or IoT projects, and engineering problem-solving
+🧠 I enjoy breaking down complex engineering topics into simple, logical explanations
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Karanrajputofficial007@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) 
